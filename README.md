@@ -5,9 +5,17 @@
  - Jmeter
 
 ## Senario
- - Login to user  - Get user list  - Create a user  - Search the newly created user by id
+ - Login to user 
  
- -  Search the newly created user by phone number  - Search the newly created user by email
+ - Get user list 
+  
+ - Create a user 
+ 
+ - Search the newly created user by id
+ 
+ -  Search the newly created user by phone number  
+ 
+ - Search the newly created user by email
  
  -  Update the user phone number
   
