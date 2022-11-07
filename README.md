@@ -6,9 +6,11 @@
  
 ## How to generate this Report
 
- -clone this file
+ -Clone this file
  
- -write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
+ -Write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
+ 
+ - If data export ```html``is unable to export data then write command ```jmeter -g <log file> -o <Path to output folder>```
  
 ## Pre-requisit
 
