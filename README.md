@@ -1,5 +1,19 @@
 # Dmoney-api-jmx
 
+## Technology and tools
+
+ -Jmeter
+ 
+## How to generate this Report
+
+ -clone this file
+ -write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
+ 
+## Pre-requisit
+
+ -java must be installed
+ -Jmeter must be installed
+ -environment variable system setup must needed
 
 ##Report
 ![loadTest-Report](https://user-images.githubusercontent.com/52061402/200436840-d6b35330-75e5-4af1-91cd-d80d7b671ada.JPG)
