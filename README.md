@@ -3,6 +3,15 @@
 ## Technology and tools
 
  - Jmeter
+
+## Senario
+ - Login to user  - Get user list  - Create a user  - Search the newly created user by id
+ 
+ -  Search the newly created user by phone number  - Search the newly created user by email
+ 
+ -  Update the user phone number
+  
+ -  Delete the use
  
 ## How to generate this Report
 
