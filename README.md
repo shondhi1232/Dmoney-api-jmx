@@ -7,6 +7,7 @@
 ## How to generate this Report
 
  -clone this file
+ 
  -write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
  
 ## Pre-requisit
