@@ -13,7 +13,9 @@
 ## Pre-requisit
 
  -java must be installed
+ 
  -Jmeter must be installed
+ 
  -environment variable system setup must needed
 
 ##Report
