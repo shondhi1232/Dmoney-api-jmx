@@ -2,23 +2,23 @@
 
 ## Technology and tools
 
- -Jmeter
+ - Jmeter
  
 ## How to generate this Report
 
- -Clone this file
+ - Clone this file
  
- -Write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
+ - Write command in git bash ```jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>```
  
  - If data export ```html``is unable to export data then write command ```jmeter -g <log file> -o <Path to output folder>```
  
 ## Pre-requisit
 
- -java must be installed
+ - java must be installed
  
- -Jmeter must be installed
+ - Jmeter must be installed
  
- -environment variable system setup must needed
+ - Environment variable system setup must needed
 
 ## Output of the Report
 ![loadTest-Report](https://user-images.githubusercontent.com/52061402/200436840-d6b35330-75e5-4af1-91cd-d80d7b671ada.JPG)
